@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<name>Game</name>
+	<version>1.0</version>
+	<locales>
+		<locale>fr</locale>
+		<locale>fr-FR</locale>
+		<locale>fr-CA</locale>
+	</locales>
+	<messages>
+		<message>
+			<code>CUTCLEAN_EXPLANATION</code>
+			<value>Pour configurer l'activation du plugin ainsi que le taux d'apparition des pommes</value>
+		</message>
+		<message>
+			<code>CUTCLEAN_VALUE_IS_MISSING</code>
+			<value>Impossible de définir la valeur car elle est manquante</value>
+		</message>
+		<message>
+			<code>APPLEDROPRATE_VALUE_DEFINED_IN_GAME</code>
+			<value>Le taux d'apparition des pommes est défini à %s</value>
+		</message>
+		<message>
+			<code>APPLE_DROP_RATE__EXPLANATION</code>
+			<value>Pour modifier le taux d'apparition des pommes</value>
+		</message>
+		<message>
+			<code>APPLE_DROP_RATE__VALUE_OUT_OF_BOUND</code>
+			<value>Le taux d'apparition des pommes doit être compris entre 0 et 1</value>
+		</message>
+		<message>
+			<code>APPLE_DROP_RATE__DROP_RATE_ON_TAB_COMPLETE</code>
+			<value>&lt;taux&gt;</value>
+		</message>
+		<message>
+			<code>CUTCLEAN_ISENABLED_EXPLANATION</code>
+			<value>Pour définir si cutclean est activé ou non</value>
+		</message>
+		<message>
+			<code>CUTCLEAN_ISENABLED_VALUE_DEFINED</code>
+			<value>L'activation de cutclean est défini à %s</value>
+		</message>
+	</messages>
+</dictionary>
