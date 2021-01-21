@@ -8,7 +8,7 @@ public class CutcleanConfiguration {
 	private IEventListener blockBreackEventListener, entityDeathEventListener, appleDropRateEventListener;
 
 	private CutcleanConfiguration() {
-		appleDropRate = 0.075;
+		appleDropRate = 0.15;
 		appleDropRateEventListener = new AppleDropRateListener();
 		blockBreackEventListener = new BlockBreakEventListener();
 		entityDeathEventListener = new EntityDeathEventListener();
